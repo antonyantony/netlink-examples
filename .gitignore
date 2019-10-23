@@ -1,0 +1,16 @@
+*~
+.*.sw?
+\#*\#
+.\#*
+*.rej
+*.orig
+*.bak
+*.pyc
+*.o
+a.out
+TAGS
+tags
+osxApp/build
+Makefile.inc.local
+.ycm_extra_conf.py
+cscope.out
